@@ -1,0 +1,105 @@
+#c1
+{
+    height: 680px;
+    opacity: 0.8;
+}
+#chead
+{
+    font-family: "Sofia";
+    font-size: 8vw;
+    background: -webkit-linear-gradient(rgb(37, 199, 236), rgb(63, 59, 46));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.navbar-nav > li{
+    padding-left:18px;
+    padding-right:18px;
+  }
+#about
+  {
+    font-family: "Sofia";
+    font-size: 8vw;
+    background: -webkit-linear-gradient(rgb(204, 204, 177), rgb(211, 161, 12));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  #abouth
+  {
+      font-weight: 600;
+      font-size: 5vw;
+  }
+  #box-3 {
+    height: 100vh;
+    width: 100%;
+    background-image: url(./images/about.jpg);
+    background-size: cover;
+    display: table;
+    background-attachment: fixed;
+  }
+  #featured-models {
+    padding: 50px 0px;
+    background-image: url("./images/bg.png");
+    background-color: #1c1c1c;
+    background-position: top center;
+    color: #999999;
+    background-attachment: fixed;
+    text-align: center;
+    box-shadow: 0 100px 100px -100px #000 inset;
+    border-top: 8px solid #333;
+  }
+  
+  #featured-models h1 {
+    color: #ffffff;
+  }
+  
+  #featured-models h5 {
+    color: #ac8236;
+  }
+  
+  #featured-models p {
+    margin-bottom: 30px;
+  }
+  /* #i11
+  {
+    width: 20vw;
+    margin-left: -5%;
+  } */
+  .react-datepicker-wrapper
+  {
+    width: 100%;
+  }
+  #rbut
+  {
+    color: white;
+    background-color: rgb(161, 138, 79);
+    border: 2px solid rgb(161, 138, 79);
+  }
+  #rbut:hover
+  {
+    color: black;
+    background-color: white;
+    border: 2px solid rgb(161, 138, 79);
+    box-shadow: 0 12px 16px 0 rgba(152, 175, 20, 0.24), 0 17px 50px 0 rgba(144, 173, 40, 0.19);
+  }
+  #ppimg
+  {
+    border-radius: 50%;
+    height: 200px;
+    width:  200px;
+  }
+  #blogimage
+  {
+    height: 43vh;
+  }
+  #box-4 {
+    height: 100vh;
+    width: 100%;
+    background-image: url(./images/about.jpg);
+    background-size: cover;
+    display: table;
+    background-attachment: fixed;
+  }
+  .btn-primary:hover
+  {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+  }

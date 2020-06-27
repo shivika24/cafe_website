@@ -1,0 +1,110 @@
+#box-2 {
+    height: 80vh;
+    width: 100%;
+    background-image: url(https://www.photojaanic.com/blog/wp-content/uploads/sites/2/2017/07/food-photography-tips-photojaanic-3-1-1080x720.jpg);
+    background-size: cover;
+    display: table;
+    background-attachment: fixed;
+    opacity: 0.7;
+  }
+#contacth
+{
+    font-family: "Sofia";
+    background: -webkit-linear-gradient(rgb(37, 199, 236), rgb(63, 59, 46));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-top: 26%;
+    font-weight: 800;
+    font-size: 5vw;
+}
+
+.sec4{
+    padding-top: 20vh;
+    padding-bottom: 7vh;
+}
+
+.map{
+    background: #474559;
+    height: 450px;
+}
+.map .map-info{
+    margin-top: 10px;
+    width: 80%;
+    color: white;
+}
+
+.contact-details{
+    float: left;
+    margin-top: 20px;
+    line-height: 1.5;
+    font-size: 18px;
+}
+
+.contact-icons{
+    float: right;
+}
+
+.contact-details .email a{
+    color: white;
+    text-decoration: none !important;
+    transition: all ease 0.4s;
+}
+
+.contact-details .email a:hover{
+    color: #2395cc;
+}
+
+.contact-icons i{
+    color: white;
+    font-size: 25px;
+    margin-top: 7px;
+    transition: all ease 0.4s;
+}
+
+.contact-icons i:hover{
+    color: #2395cc;
+    cursor: pointer;
+}
+@media(max-width:990px){
+    .contact-form{
+    padding-top: 25px !important;
+}
+}
+
+.dark-mode .contact-form h2{
+    color:#fff;
+}
+.gform input{
+    height: 48px;
+}
+
+.contact-form .form-control{
+    outline: none;
+    box-shadow: none;
+    margin: 16px 0;
+}
+
+
+.gform .submit-btn{
+    background-color: #2395cc;
+    border-radius: 50px;
+    font-weight: bold;
+    color: #fff;
+    border: 0;
+    cursor: pointer;
+    transition: all 0.4s ease;
+}
+.gform .submit-btn:hover{
+    background-color: #333;
+}
+
+.copyright-text a{
+    color: #2395cc;
+    transition: all ease 0.3s;
+
+}
+#subbut
+{
+    background-color: rgb(64, 135, 175);
+    width: 100%;
+}
