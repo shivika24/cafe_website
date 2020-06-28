@@ -90,17 +90,17 @@ class Menu extends Component
             <div className="row" style={{padding:0,margin:0}}>
                 <div className="col-md-4" style={{padding:"25px"}}>
                 <Zoom>
-                <center><img  alt="img" src={m10} style={{width:"80%"}}/></center>
+                <center><img  alt="img" src={m10} style={{width:"100%"}}/></center>
                 </Zoom>
                 </div>
                 <div className="col-md-4" style={{padding:"25px"}}>
                 <Zoom>
-                <center><img  alt="img" src={m11} style={{width:"80%"}}/></center>
+                <center><img  alt="img" src={m11} style={{width:"100%"}}/></center>
                 </Zoom>
                 </div>
                 <div className="col-md-4" style={{padding:"25px"}}>
                 <Zoom>
-                <center><img  alt="img" src={m12} style={{width:"80%"}}/></center>
+                <center><img  alt="img" src={m12} style={{width:"100%"}}/></center>
                 </Zoom>
                 </div>
             </div><br/><br/>
